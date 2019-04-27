@@ -69,7 +69,6 @@
 				9DECFDFA22731E0D00F573DE /* Core Data */,
 				9DECFDFD22731E6900F573DE /* ViewModel */,
 				9DECFDFC22731E6100F573DE /* Model */,
-				9DECFDFE22731EB100F573DE /* Supporting Files */,
 			);
 			path = Notes;
 			sourceTree = "<group>";
@@ -110,13 +109,6 @@
 				9DF631512271743C00F192D8 /* DataOperations.swift */,
 			);
 			path = ViewModel;
-			sourceTree = "<group>";
-		};
-		9DECFDFE22731EB100F573DE /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
