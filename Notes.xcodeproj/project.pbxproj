@@ -67,7 +67,7 @@
 				9DDF36FC22707CCC00B2D451 /* Info.plist */,
 				9DECFDFB22731E2D00F573DE /* View */,
 				9DECFDFA22731E0D00F573DE /* Core Data */,
-				9DECFDFD22731E6900F573DE /* ViewModel */,
+				9DECFDFD22731E6900F573DE /* Controllers */,
 				9DECFDFC22731E6100F573DE /* Model */,
 			);
 			path = Notes;
@@ -100,7 +100,7 @@
 			path = Model;
 			sourceTree = "<group>";
 		};
-		9DECFDFD22731E6900F573DE /* ViewModel */ = {
+		9DECFDFD22731E6900F573DE /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
 				9DDF36ED22707CCB00B2D451 /* AppDelegate.swift */,
@@ -108,7 +108,7 @@
 				9DF631552271840000F192D8 /* AddNewFileViewController.swift */,
 				9DF631512271743C00F192D8 /* DataOperations.swift */,
 			);
-			path = ViewModel;
+			path = Controllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
